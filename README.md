@@ -2,13 +2,13 @@
 
 The following are what I learned from the project:
 
-		Develop and run multi-class Java programs.
-		Use command-line arguments. (Eclipse: must set program configuration parameters.)
+		Developed and ran multi-class Java programs.
+		Used command-line arguments. (Eclipse: must set program configuration parameters.)
 		Throw exceptions at the point the error is detected.
 		Catch exceptions where they can be handled as required by program specifications.
-		Perform console and file I/O.
+		Performed console and file I/O.
 		Read text file input via java.util.Scanner
-		Write output to a text file via java.io.PrintWriter.
+		Wrote output to a text file via java.io.PrintWriter.
     
 <Strong>Description</Strong>
 
