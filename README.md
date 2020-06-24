@@ -1,6 +1,6 @@
 # PokemonGo_Console-based
 
-<Strong>Description</Strong>
+## Description
 
 I created a simplified version of the video game Pokemon Go. Rather than a video game, this program is console-based. In this version of PokemonGo, the player (PokemonTrainer) encounters Pokemon in the wild and tries to catch them to build his or her collection. The player may transfer Pokemon to the Professor to earn candies.
 
@@ -12,7 +12,7 @@ The game play allows the player to search for Pokemon (encounters), display the 
 
 At the end of game play, the player’s progress is saved. This allows the player to resume playing at a later time.
 
-<Strong>Goals</Strong>
+## Goals
 
 The following are what I learned from the project:
 
